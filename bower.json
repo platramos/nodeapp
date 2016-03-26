@@ -1,0 +1,22 @@
+{
+  "name": "nodeapp",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "= <carlyle.davis@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/platramos/nodeapp",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "web/components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "~0.14.7"
+  }
+}
